@@ -77,6 +77,7 @@ print("The Standard deviation of arrival from feeder is %.3F "%SD)
 ```
 
 # Output : 
+![image](https://github.com/Hezron-lix/Mean-and-Variance/assets/139331337/a3ca24a7-4fd3-4a4e-b8f3-a647cc415b19)
 
 
 # Results :
